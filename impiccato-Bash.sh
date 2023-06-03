@@ -46,13 +46,13 @@ function omino_corpo {
 }
 
 function omino_1braccio {
-	echo "                +---+  "
-	echo "                |   |  "
-	echo "                0   |  "
-	echo "               /|   |  "
-	echo "                    |  "
-	echo "                    |  "
-	echo "              ========="
+	echo "                            +---+  "
+	echo "                            |   |  "
+	echo "                            0   |  "
+	echo "                           /|   |  "
+	echo "                                |  "
+	echo "                                |  "
+	echo "                          ========="
 }
 
 function omino_2braccio {
