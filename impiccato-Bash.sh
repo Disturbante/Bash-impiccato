@@ -260,7 +260,7 @@ do
 						
 						if [[ "$parola_minuscola" == *"$lettera_minuscola"* ]];then 
 							
-							echo "la lettera Ã¨ nella parola"
+							echo "la lettera $lettera_minuscola nella parola"
 							
 							for ((i=0;i<${#parola_minuscola};i++));
 							do
