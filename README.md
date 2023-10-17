@@ -12,3 +12,6 @@ Then execute the game and have fun
 for a better experience i suggest to zoom the terminal a little bit with:
 
 `Ctrl + "+"`
+![gioco](./impiccato.png)
+<!-->
+![partita](./gioco.png)
